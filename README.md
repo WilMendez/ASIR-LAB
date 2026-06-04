@@ -4,7 +4,7 @@ Laboratorio personal de Administración de Sistemas, Redes y Base de Datos.
 ## Sobre este proyecto
 
 Este repositorio documenta los laboratorios y proyectos realizados durante mi fomración en Administración de Sistemas Informáticos en Red ASIR.
-El objetivo es construir una infraestructura empresarial virtual completa utilizando tecnologías  reales empleadas en entornos corporativos.
+El objetivo es construir una infraestructura empresarial virtual completa utilizando tecnologías virtuales simulando entornos reales empleadas en entornos corporativos.
 
 ## Tecnologías
 - Virtual Box
