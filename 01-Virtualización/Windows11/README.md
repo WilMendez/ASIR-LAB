@@ -31,7 +31,9 @@ Se creó una nueva máquina virtual utilizando Oracle VirtualBox.
 Durante la configuración inicial se seleccionó la imagen ISO de Windows 11 Pro 24H2 y se habilitó la instalación desentendida para automatizar parte del proceso de instalación. 
 
 ### Configuración del Usuario
-VirtualBox permite
+VirtualBox permite automatizar la creación del usuario inicial del sistema operativo.
+Durante esta fase también se configuró el nombre del equipo y se habilitó la instalación automática de las Guest Additions.
+La Guest Additions mejoran significativamente la integración entre la máquina virtual y el sistema anfitrión.
 
 
 
