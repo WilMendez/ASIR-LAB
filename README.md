@@ -39,4 +39,4 @@ Desarrollar competencias prácticas en Administración de Sistemas Informáticos
 
 ---
 
-**Autor:**_Wilson Javier Méndez Gómez_
+**Autor:** _Wilson Javier Méndez Gómez_
