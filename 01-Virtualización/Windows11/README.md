@@ -40,7 +40,7 @@ La Guest Additions mejoran significativamente la integración entre la máquina 
 Para garantizar un funcionamiento estable se asignaron recursos dedicados a la máquina virtual.
 - Memoria RAM   4 GB
 - CPU           2vCPU
-![Configuración Hardware](images/configuración-hardware.png)
+![Configuración Hardware](images/configuracion-hardware.png)
 Esta configuración proporciona un equilibrio adecuado entre rendimiento y consumo del recurso del equipo anfitrión.
 
 ### Configuración del Almacenamiento
