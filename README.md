@@ -1,5 +1,5 @@
 # ASIR-LAB
-Laboratorio personal de Administración de Sistemas, Redes y Ciberseguridad
+Laboratorio personal de Administración de Sistemas, Redes y Base de Datos.
 
 ## Sobre este proyecto
 
