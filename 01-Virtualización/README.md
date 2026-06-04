@@ -5,7 +5,7 @@ El  objetivo es disponer de un entorno seguro y aislado donde desplegar servidor
 
 ## Objetivos
 * Implementar un entorno virtualizado mediante Orcacle VirtualBox.
-* Desplegar sistemas Windoes y Linux para prácticas de administración de sistemas.
+* Desplegar sistemas Windows y Linux para prácticas de administración de sistemas.
 * Preparar la infraestructura base para Active Directory, DNS, DHCP y servicios corporativos.
 * Simular entornos empresariales reales
 
