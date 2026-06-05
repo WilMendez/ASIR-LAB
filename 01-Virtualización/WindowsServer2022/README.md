@@ -15,10 +15,10 @@ Este servidor será utilzado posteriormente para desplegar Active Directory, DNS
 - Guest Addittions
 
 ### Configuración de Hardaware
-Memoria RAM          4 GB
-CPU                  2 vCPU
-Disco Virtual        40 GB
-Tipo de Disco        VDI
+| Memoria RAM        |  4 GB |
+| CPU                 | 2 vCPU |
+| Disco Virtual       | 40 GB |
+|Tipo de Disco       | VDI |
 
 
 ### Instalación del Sistema Operativo
