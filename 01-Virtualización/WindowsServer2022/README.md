@@ -31,7 +31,7 @@ Durante el proceso de instalación se seleccionó _Windows Server 2022 Satandard
 ![Configuración Sistema](images/configuracion_sistema.png)
 
 En la siguiente imagen se muestra todas las especificaciones del dispositivos antes configuradas, junto con más especificaciones sobre la misma.
-![Especificaciones del sistema]
+![Especificaciones del sistema](configuracion_sistema3.png)
 
 La Instalación se realizó de forma manual, ya que el modo desentendido presenta errores en la interfaz del asistente de instalación del Sistema Operativo.
 
