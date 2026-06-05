@@ -18,12 +18,17 @@ Este servidor será utilzado posteriormente para desplegar Active Directory, DNS
 - **Memoria RAM**     4 GB
 - **CPU**             2 vCPU
 - **Disco Virtual**   40 GB
-- **Tipo de Disco**   VDI 
+- **Tipo de Disco**   VDI
+
+![Configuración RAM y CPU](images/configuracion_hrw1.png)
+
+![Configuración de Disco](images/configuracion_hrw2.png)
 
 
 ### Instalación del Sistema Operativo
 Se creó una nueva máquina virtual denominada _SRV-DC01_ utilizando Oracle VirtualBox.
 Durante el proceso de instalación se seleccionó _Windows Server 2022 Satandard_
+![Configuración Sistema](iamges/configuracion_sistema.png)
 
 
 La Instalación se realizó de forma manual, ya que el modo desentendido presenta errores en la interfaz del asistente de instalación del Sistema Operativo.
