@@ -59,6 +59,9 @@ Se creó un disco de tipo VDI (VirtualBox Disk Image).
 
 La asignación dinámica permite el uso del almacenamiento físico del equipo anfitrión, utilizando únicamente el espacio realmente necesario.
 
+### Resultado
+Se obtuvo una estación de trabajo Windows 11 completamente funcional y preparada para integrarse en los futuros proyectos del laboratorio
+![Maquina instalada](images/configuracion_sistema)
 
 
 
