@@ -16,13 +16,13 @@ Esta máquina actua como cliente dentro de la infraestructura corporativa y ser�
 * VirtualBox Guest Additions
 
 ## Configuración de Hardware
-Sistema Operativo     Windows 11 Pro
-Memoria Ram           4 GB
-CPU                   2 vCPU
-Disco Duro            30 GB
-Tipo de Disco         VDI Dinámico
-User                  winuser01
-Nombre de la maquina  WIN11-CLI01
+- Sistema Operativo     Windows 11 Pro
+- Memoria Ram           4 GB
+- CPU                   2 vCPU
+- Disco Duro            30 GB
+- Tipo de Disco         VDI Dinámico
+- User                  winuser01
+- Nombre de la maquina  WIN11-CLI01
 
 ## Procedimiento de Instalación
 ### Creación de la Máquina Virtual
