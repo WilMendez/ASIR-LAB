@@ -3,10 +3,10 @@ Implementación de un servidor Linux Ubuntu 24.04 LTS destnado a integrarse post
 Esta máquina será utilizada para prácticas de administración Linux, Samba, Kerberos, Winbind y compartición de recursos.
 
 ## Objetivos
-- Desplegar un servidor Linux virtual, simulando un entorno empresarial
-- Preparar la integración con Active Directory
-- Implementar servicios de autenticación y compartición de recursos.
+- Instalar un sistema Operativo linux, creando una Máquina virtual
+- Preparación inicial de un Servidor Linux.
 - Familiarizarse con la administración de sistemas Linux.
+
 
 ## Tecnologías utilzadas
 - Orcacle VirtualBox
