@@ -1,13 +1,14 @@
-# Proyecto 01 - Virtualización
+# Proyecto 01 - Infraestructura Virtual del Laboratorio
 ## Descripción
-Este proyecto documenta la implementación de la infraestructura virtual inicial utilizada en el laboratorio ASIR.
-El  objetivo es disponer de un entorno seguro y aislado donde desplegar servidores, clientes y servicios de red sin afectar al sistemas operativo anfritión.
+Este proyecto documenta el despliegue de la infraestructura virtual inicial del laboratorio ASIR.
+Su finalidad es implementar un entorno de trabajop aislado compuesto por sistemas Windows y Linux, utilizando Oracle VirtualBox como plataforma de virtualización y una red virtual compartida para permitir la comunicación entre las diferentes máquinas. 
+
 
 ## Objetivos
 * Implementar un entorno virtualizado mediante Orcacle VirtualBox.
 * Desplegar sistemas Windows y Linux para prácticas de administración de sistemas.
-* Preparar la infraestructura base para Active Directory, DNS, DHCP y servicios corporativos.
-* Simular entornos empresariales reales
+* Preparar la infraestructura base para futuros servicios corporativos.
+* Simular entornos empresariales reales.
 
 ## Tecnologías Utilizadas
 * Oracle Virtualbox
