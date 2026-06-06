@@ -6,9 +6,9 @@ Esta máquina actua como cliente dentro de la infraestructura corporativa y ser�
 
 ## Obejtivos 
 * Desplegar un sistema Windows 11 funcional.
-* Preparar un cliente para futuras prácticas de active Directory.
+* Preparar una estación de trabajo para futuras prácticas de administración de sitemas.
 * Validar el funcionamiento del entorno virtualizado.
-* Configurar una estación de trabajo empresarial.
+* Familiarizarse con la virtualización utilizando Oracle VirtualBox.
 
 ## Tecnologías Utilizadas
 * Oracle VirtualBox
