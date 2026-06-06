@@ -26,13 +26,15 @@ Cada proyecto refleja el proceso de aprendizaje, las decisiones técnicas tomada
 - MySQL
 
 ## Proyectos
-01 - Virtualización,  Redes Virtuales
-02 - Grupos de Trabajo Locales.
-03 - Active Directory
-04 - DHCP
-05 - Compartición NTFS 
-06 - GPO
-07 - Samba y Kerberos en VM Ubuntu
+01 - Infraestructura Virtual
+02 - Redes Virtuales
+03 - Administración Local
+04 - Active Directory
+05 - DNS y DHCP
+06 - Permisos NTFS y Recursos Compartidos
+07 - GPO
+08 - Integración Linux y Windows
+09 - Bases de Datos
 
 
 ## Objetivo Profesional
