@@ -30,12 +30,12 @@ Se creó una nueva máquina virtual utilizando Oracle VirtualBox.
 
 ![Configuración versión](images/configuracion-version.png)
 
-Durante la configuración inicial se seleccionó la imagen ISO de Windows 11 Pro 24H2 y se habilitó la instalación desentendida para automatizar parte del proceso de instalación.
+Durante la configuración inicial se seleccionó la imagen ISO de Windows 11 Pro 24H2 y se habilitó la instalación desantendida para automatizar parte del proceso de instalación.
 
 
 ### Configuración del Usuario
 VirtualBox permite automatizar la creación del usuario inicial del sistema operativo.
-Durante esta fase también se configuró el nombre del equipo y se habilitó la instalación automática de las Guest Additions.
+Durante esta fase también se configuró el nombre del equipo y se habilitó el montaje del disco para instalar las Guest Additions.
 
 ![Configuración Inicial](images/configuracion-usuario.png)
 
@@ -60,7 +60,7 @@ Se creó un disco de tipo VDI (VirtualBox Disk Image).
 La asignación dinámica permite el uso del almacenamiento físico del equipo anfitrión, utilizando únicamente el espacio realmente necesario.
 
 ### Resultado
-Se obtuvo una estación de trabajo Windows 11 completamente funcional y preparada para integrarse en los futuros proyectos del laboratorio
+Se obtuvo una estación de trabajo Windows 11 completamente funcional y  preparada para iniciar la configuración para la correcta integración de futuros proyectos del laboratorio.
 ![Maquina instalada](images/configuracion_sistema.png)
 
 
