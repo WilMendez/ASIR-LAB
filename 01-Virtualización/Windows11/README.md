@@ -61,7 +61,7 @@ La asignación dinámica permite el uso del almacenamiento físico del equipo an
 
 ### Resultado
 Se obtuvo una estación de trabajo Windows 11 completamente funcional y preparada para integrarse en los futuros proyectos del laboratorio
-![Maquina instalada](images/configuracion_sistema)
+![Maquina instalada](images/configuracion_sistema.png)
 
 
 
