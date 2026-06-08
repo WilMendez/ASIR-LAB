@@ -26,15 +26,15 @@ Cada proyecto refleja el proceso de aprendizaje, las decisiones técnicas tomada
 - MySQL
 
 ## Proyectos
-01 - Infraestructura Virtual
-02 - Redes Virtuales
-03 - Administración Local
-04 - Active Directory
-05 - DNS y DHCP
-06 - Permisos NTFS y Recursos Compartidos
-07 - GPO
-08 - Integración Linux y Windows
-09 - Bases de Datos
+= 01 - Infraestructura Virtual
+- 02 - Redes Virtuales
+- 03 - Administración Local
+- 04 - Active Directory
+- 05 - DNS y DHCP
+- 06 - Permisos NTFS y Recursos Compartidos
+- 07 - GPO
+- 08 - Integración Linux y Windows
+- 09 - Bases de Datos
 
 
 ## Objetivo Profesional
