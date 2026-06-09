@@ -23,7 +23,7 @@ Esta máquina será utilizada para prácticas de administración Linux, Samba, K
 ### Creación de la máquina virtual
 Se creo una nueva maquina virtual utilizando Oracle VirtualBox.
 Durante la configuración inicial se seleccionó la Imagen ISO de Ubuntu 24.04 LTS y se habilitó la instalación desatendida para automatizar parte del proceso de instalación.
-[!Configuración de Hardware](images/confi_sistema.png)
+![Configuración de Hardware](images/confi_sistema.png)
 
 
 ### Configuración del usuario
