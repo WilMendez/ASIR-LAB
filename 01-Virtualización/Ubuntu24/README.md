@@ -29,7 +29,7 @@ Durante la configuración inicial se seleccionó la Imagen ISO de Ubuntu 24.04 L
 ### Configuración del usuario
 VirtualBox permite automatizar la creación del usuario inicial del sistema operativo.
 Durante esta fase de configuración, se elige el nomrbe del equipo y se habilitó el montaje del disco para la instalación de las Guest Additions.
-
+![Configuración usuario](images/confi_usuario.png)
 
 ### Configuración del almacenamiento
 Se creó un nuevo disco tipo VDI (VirtualBox Disk Image)
