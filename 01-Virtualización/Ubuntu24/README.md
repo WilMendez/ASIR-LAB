@@ -34,9 +34,11 @@ Durante esta fase de configuración, se elige el nomrbe del equipo y se habilit�
 ### Configuración del almacenamiento
 Se creó un nuevo disco tipo VDI (VirtualBox Disk Image)
 La asignación dinámica permite el uso del almacenamiento físico del equipo anfitrión, utilizando únicamente el espacio realmente necesario.
+![Configuración del almacenamiento](images/confi_disco.png)
 
 ### Resultado
 Se obtuvo una estación de trabajo Ubuntu 24.04 LTS completamente funcional y preparada para iniciar la configuración para la correcta integración de futuros proyectos del laboratorio.
+![Resultado](images/confi_)
 
 
 
