@@ -38,7 +38,7 @@ La asignación dinámica permite el uso del almacenamiento físico del equipo an
 
 ### Resultado
 Se obtuvo una estación de trabajo Ubuntu 24.04 LTS completamente funcional y preparada para iniciar la configuración para la correcta integración de futuros proyectos del laboratorio.
-![Resultado](images/confi_)
+![Resultado](images/confi_sistema1.png)
 
 
 
